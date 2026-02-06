@@ -1,4 +1,4 @@
-# Qijia-demo4-anomaly-detection
+# anomaly-detection
 
 这是一个基于jetpack6.2和conda的智能跌倒检测项目
 
